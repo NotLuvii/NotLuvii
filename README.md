@@ -23,7 +23,7 @@ Hi, I’m **Luvi**, a developer passionate about crafting creative, functional, 
 ## 🤝 Connect with Me  
 Feel free to reach out or connect with me to discuss ideas, collaborate on projects, or just say hi!  
 - **GitHub**: [NotLuvii](https://github.com/NotLuvii)  
-- **LinkedIn**: https://www.linkedin.com/in/luvneet-bamrah-157281214/(#) 
+- **LinkedIn**: [Luvneet Bamrah](https://www.linkedin.com/in/luvneet-bamrah-157281214/) 
 
 ---
 

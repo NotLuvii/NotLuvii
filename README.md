@@ -2,19 +2,6 @@
 
 👋 Hello! Welcome to my GitHub profile. I'm Luvi, and I am passionate about creating exciting tech projects. As you explore my profile, you'll find a diverse range of repositories on various topics such as cancer detection, music, stock prediction, and much more. Let's dive into my GitHub journey and discover some interesting tidbits about me.
 
-## 🔥 GitHub Statistics 
-First things first, let's take a look at some GitHub statistics showcasing my journey so far:
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NotLuvii)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotLuvii)
-
-✨ Here's a quick overview:
-- **Public Repositories**: 12
-- **Followers**: 5
-- **Following**: 7
-
-From these numbers, you can decipher that I'm still exploring and refining my presence on GitHub. It's a journey filled with learning and growth, gaining more attention as I go.
-
 ## 💼 Skills and Interests
 I possess the following skills:
 

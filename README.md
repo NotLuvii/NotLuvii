@@ -25,11 +25,9 @@ These are just a few highlights, but my willingness to explore new technologies 
 
 Feel free to explore these repositories for further insight into my varied interests and skillset. 
 
-## 📬 Contact Me
-I'm always ready to collaborate and discuss exciting tech ideas. If you're interested in any of my projects or have suggestions, reach out to me using the following channels:
-- Email: luvneet2020@gmail.com
 
-## ✨ In Conclusion
+
+##  In Conclusion
 Thank you for taking the time to check out my GitHub profile. Through my 12 public repositories, I'm continuously adding value through my coding journey, striving for innovation, and exploring captivating fields.
 
 I seek to grow my user base and collaborate with individuals passionate about transforming ideas into reality. Join me on my ride and witness coding magic! 🚀
